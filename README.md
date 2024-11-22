@@ -2,8 +2,6 @@
 
 A powerful platform for businesses to create immersive 3D marketing campaigns using Google Maps Platform's Photorealistic 3D Tiles.
 
-![Platform Demo](https://images.unsplash.com/photo-1486078695445-0497c2f58cfe?auto=format&fit=crop&q=80&w=1200)
-
 ## Features ✨
 
 - **Immersive 3D Visualization**:
@@ -60,7 +58,7 @@ A powerful platform for businesses to create immersive 3D marketing campaigns us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3d-marketing-platform.git
+   git clone https://github.com/mcnoble1/3d-marketing-platform.git
    ```
 
 2. Install dependencies:
@@ -133,13 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue or contact the maintainers:
 
-- [GitHub Issues](https://github.com/yourusername/3d-marketing-platform/issues)
-- Email: contact@3dmarketing.com
-
-## Screenshots 📸
-
-![Dashboard View](https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&q=80&w=600)
-![Campaign View](https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&q=80&w=600)
+- [GitHub Issues](https://github.com/mcnoble1/3d-marketing-platform/issues)
 
 ## Roadmap 🗓️
 
